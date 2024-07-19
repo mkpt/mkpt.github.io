@@ -193,7 +193,7 @@ name: Pages
 on:
   push:
     branches:
-      - main # default branch
+      - master # default branch
 
 jobs:
   build:
@@ -239,3 +239,12 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 ```
+
+# Finished
+
+All done. 
+
+~~1. Get the content out of Squarespace (text & images).~~
+~~2.  Convert the content into markdown (text & images).~~
+~~3. Build a site locally using hexo.~~
+~~4. Deploy it somewhere.~~
