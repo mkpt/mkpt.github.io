@@ -8,6 +8,7 @@ public/
 _multiconfig.yml
 
 *.Identifier
+public/
 
 # Logs
 logs
