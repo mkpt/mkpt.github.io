@@ -11,4 +11,9 @@ block content
       - var transform = function(str) { return '#' + str; }
       - var config = {class: 'post-tag', show_count: false, style: false, transform: transform, separator: ', ', transform: transform}
       .post-tags!= list_tags(page.tags, config)
+    br
+    br
+    br
+    br
+    a#menu-back(href="javascript:history.back()") Back
   #paginator!= paginator()
