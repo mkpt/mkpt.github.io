@@ -13,9 +13,7 @@ The last time I saw my mother and father was 870 days ago--November 23, 2019. Th
 Here is a 100% factual timeline of the events leading up to our April trip to Seattle:
 
 - **July 2021**: We booked a trip to Seattle for December 16, 2021 to see my family and attend my sister’s wedding.
-    
 - **Late 2021**: Omicron variant hits.
-    
 - **December 14, 2021 ~11pm**: We are at home in Japan, and up late worried about our trip. We decide after much discussion to cancel our trip. I am walking across the living room towards my phone to call my mother. Before I can reach the phone, it starts ringing. I know instantly something bad happened. It’s my mother telling me my father is in the hospital. They had found him on the kitchen floor unable to stand up. When she visited him in the hospital, he had no memory of her.
     
 - **December 18**, **2021**: My sister marries her fiance. We attend over zoom. My father is in the hospital and cannot attend the wedding.
