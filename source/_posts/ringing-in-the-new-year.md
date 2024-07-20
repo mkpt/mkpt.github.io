@@ -1,6 +1,9 @@
 ---
 title: "Ringing in the New Year"
 date: "2023-02-07"
+tags: blog
+categories: 
+  - "2023"
 ---
 
 It’s 2023. This marks almost five years in Japan. This year I will be applying for permanent residency, which, if accepted, means Japan will take the lion’s share of my taxes, but which will also mean I can stay here as long as I want.

@@ -1,6 +1,7 @@
 ---
 title: "A Quiet Month"
 date: "2022-12-02"
+tags: blog
 ---
 
 Went to Tokyo, saw some friends, and tried to stay warm. That’s about it.

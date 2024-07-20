@@ -2,6 +2,8 @@
 title: New Year, New Platform
 date: 2024-07-18 15:17:31
 tags: code
+categories: 
+  - "2024"
 ---
 
 # Intro

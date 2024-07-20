@@ -1,6 +1,9 @@
 ---
 title: "Oh, How I Love Christmas"
 date: "2023-01-04"
+tags: blog
+categories: 
+  - "2023"
 ---
 
 December brought a Christmas party, a trip to Seattle, meeting my baby niece for the first time, but perhaps the biggest one of all…

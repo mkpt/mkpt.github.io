@@ -1,6 +1,9 @@
 ---
 title: "In Bloom"
 date: "2023-04-03"
+tags: blog
+categories: 
+  - "2023"
 ---
 
 One of the best ways to feel the time passing in your life is to meet your friends’ children. We visited Tokyo in April to see the cherry blossoms, and it felt like I was just holding some of these animals the other day. Now they’re walking around and causing all kinds of problems.

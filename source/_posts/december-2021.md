@@ -1,6 +1,7 @@
 ---
 title: "The Best Laid Plans"
 date: "2022-01-22"
+tags: blog
 categories: 
   - "2021"
 ---

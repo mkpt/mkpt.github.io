@@ -3,9 +3,14 @@ language: en
 
 # main menu navigation
 menu:
-  Home: /
+  All: /
+  Blog: /tags/blog
+  Code: /tags/code
+  Friends: /friends
   About: /about
-  Contact: /contact
+
+  
+#  Contact: /contact
   Archives: /archives
 
 # stylesheets loaded in the <head>

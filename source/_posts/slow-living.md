@@ -1,6 +1,9 @@
 ---
 title: "Slow Living"
 date: "2023-03-03"
+tags: blog
+categories: 
+  - "2023"
 ---
 
 I think when people think of life in Japan, they think of two things:

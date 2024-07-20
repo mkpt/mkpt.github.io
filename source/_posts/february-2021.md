@@ -1,6 +1,7 @@
 ---
 title: "Breaking Out of Winter"
 date: "2021-03-02"
+tags: blog
 categories: 
   - "2021"
 ---

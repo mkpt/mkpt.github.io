@@ -1,6 +1,9 @@
 ---
 title: "The Luckiest"
 date: "2022-11-05"
+tags: blog
+categories: 
+  - "2022"
 ---
 
 Halloween is approaching, and I was going to let life in a foreign country get in the way of my Halloween traditions. We had friends over and made crepes, and then we carved pumpkins.

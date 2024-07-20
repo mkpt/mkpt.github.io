@@ -1,6 +1,7 @@
 ---
 title: "The View from Izu"
 date: "2022-09-03"
+tags: blog
 categories: 
   - "2022"
 ---
