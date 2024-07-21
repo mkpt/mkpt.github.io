@@ -3,7 +3,6 @@ title: "Blues and Greens"
 date: "2023-10-07"
 tags: 
   - blog
-  - code
 categories: 
   - "2023"
 ---

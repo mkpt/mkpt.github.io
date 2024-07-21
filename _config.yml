@@ -58,8 +58,9 @@ prismjs:
   tab_replace: ""
   mode: 'preprocess'    # realtime/preprocess
   theme: 'prism-a11y-dark'
-  line_number: false    # default false
-  custom_css: 'themes/oasis/source/css/_highlight/prismjs/prism-a11y-dark.css'     # optional
+  custom_css: false
+  # custom_css: 'themes/oasis/source/css/_highlight/prismjs/prism-a11y-dark.css'     # optional
+  line_number: false # or true, based on your preference
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

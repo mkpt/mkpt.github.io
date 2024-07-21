@@ -3,7 +3,6 @@ title: "Proposal in Ishigaki"
 date: "2021-09-04"
 tags: 
   - blog
-  - code
 categories: 
   - "2021"
 ---
