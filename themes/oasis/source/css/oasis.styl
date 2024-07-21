@@ -1,3 +1,8 @@
+/* Main Styles */
+
+@import '_highlight/index'
+@import '_post'
+
 fonts = Inter var,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji
 
 color-accent = #394867
@@ -14,12 +19,9 @@ body
   color: color-primary
 
 div#content
-  // display: flex;
-  // flex-direction: column
-  // justify-content: flex-start
-  // align-items: flex-start
   width 40em
   max-width 90%
+  padding 1em
 
 h1#title
   margin-bottom 0
@@ -51,18 +53,16 @@ div#content-outer
         margin-right 1em
 
 div.post-item
-  margin-bottom: 1em
-
+  margin-bottom 1em
   p
     margin-top 0
     margin-bottom 0.5em
-
     a
       color #19202b
-      font-size: 1.2em
-      font-weight: 500
-      text-decoration: none
-      
+      font-size 1.2em
+      font-weight 500
+      text-decoration none
+
 time
   color #b9bfcc
 
@@ -82,10 +82,10 @@ div#bottom-inner
     #hexo
       float right
     img
-        width 1em
-        height 1em
-        margin-left 1em
-        margin-top 3px
+      width 1em
+      height 1em
+      margin-left 1em
+      margin-top 3px
 
 img
   max-width 100%
@@ -97,5 +97,47 @@ aside
     margin-top 0.5em
     margin-bottom 0.5em
 
-@import '_post'
-@import '_highlight/index'
+/* Responsive Styles */
+@media (max-width: 768px)
+  body
+    padding-top 2em
+    padding-bottom 4em
+
+  div#content
+    width auto
+    max-width 95%
+
+  h1#title
+    font-size 1.5em
+
+  nav#menu-inner
+    a,span
+      margin-right 0.5em
+      font-size 0.9em
+
+  div#content-outer
+    margin-top 1em
+
+  div#content-inner
+    div#paginator
+      margin-top 2em
+      a
+        font-size 0.9em
+      span
+        font-size 0.9em
+
+  div.post-item
+    p
+      a
+        font-size 1em
+
+  div#bottom-inner
+    margin-top 4em
+    div
+      flex-direction column
+      align-items flex-start
+      a
+        font-size 0.9em
+      img
+        width 0.8em
+        height 0.8em
