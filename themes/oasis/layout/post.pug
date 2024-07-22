@@ -8,7 +8,7 @@ block content
           img(src=url_for(photo) itemprop="contentUrl")
     != page.content
     if page.tags && page.tags.length
-      - var transform = function(str) { return '#' + str; }
+      - var transform = function(str) { return 'more entries in #' + str; }
       - var config = {class: 'post-tag', show_count: false, style: false, transform: transform, separator: ', ', transform: transform}
       .post-tags!= list_tags(page.tags, config)
     br
