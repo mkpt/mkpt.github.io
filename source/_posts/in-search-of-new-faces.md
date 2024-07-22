@@ -1,7 +1,8 @@
 ---
 title: "In Search of New Faces"
 date: "2022-10-05"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2022"
 ---

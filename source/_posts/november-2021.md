@@ -1,7 +1,8 @@
 ---
 title: "Winter Approaches"
 date: "2021-12-22"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2021"
 ---

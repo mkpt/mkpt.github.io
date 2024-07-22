@@ -7,8 +7,8 @@ subtitle: 'subtitle goes here'
 # main menu navigation
 menu:
   All: /
-  Blog: /tags/blog
-  Code: /tags/code
+  Blog: /tags/Blog
+  Code: /tags/Code
   Friends: /friends
   About: /about
   Archives: /archives

@@ -1,7 +1,8 @@
 ---
 title: "Ringing in the New Year"
 date: "2023-02-07"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2023"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "New Year, New Adventure"
 date: "2022-02-05"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2022"
 ---

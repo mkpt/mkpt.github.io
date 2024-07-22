@@ -1,7 +1,8 @@
 ---
 title: "Looking for Light"
 date: "2021-02-03"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2021"
 ---

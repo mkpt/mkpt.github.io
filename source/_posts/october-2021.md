@@ -1,7 +1,8 @@
 ---
 title: "The Magic Kingdom"
 date: "2021-11-04"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2021"
 ---

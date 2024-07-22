@@ -1,7 +1,8 @@
 ---
 title: "Revisiting Kyoto"
 date: "2023-11-04"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2023"
 ---

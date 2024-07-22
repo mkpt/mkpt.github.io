@@ -1,7 +1,8 @@
 ---
 title: "In the North of Japan"
 date: "2023-06-03"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2023"
 ---

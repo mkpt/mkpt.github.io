@@ -1,7 +1,8 @@
 ---
 title: "Small Celebrations"
 date: "2023-07-05"
-tags: blog
+tags: 
+  - Blog
 categories: 
   - "2023"
 ---
