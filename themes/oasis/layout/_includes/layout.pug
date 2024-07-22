@@ -23,7 +23,9 @@ html(lang=config.language)
         link(rel='stylesheet', href=url)
   body
     #content
-      h1#title= title
+      h1#title= title       
+        | &nbsp;
+        i(class="oma oma-moka-pot")
       #menu-outer
         nav#menu-inner
           - console.log(page.path)

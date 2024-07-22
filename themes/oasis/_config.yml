@@ -1,6 +1,9 @@
 # html lang
 language: en
 
+title: MKPT
+subtitle: 'subtitle goes here'
+
 # main menu navigation
 menu:
   All: /
@@ -8,9 +11,6 @@ menu:
   Code: /tags/code
   Friends: /friends
   About: /about
-
-  
-#  Contact: /contact
   Archives: /archives
 
 # stylesheets loaded in the <head>
