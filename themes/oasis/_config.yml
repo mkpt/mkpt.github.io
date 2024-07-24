@@ -22,4 +22,8 @@ scripts:
   - /js/oasis.js
 
 logo:
-  - ./asset/logo.JPG
+  - ./assets/logo.JPG
+
+favicon:
+  small: /favicon.ico
+  medium: /favicon-32x32.png

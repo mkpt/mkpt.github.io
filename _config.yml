@@ -7,7 +7,7 @@ title: MKPT
 subtitle: ''
 description: ''
 keywords:
-author: NC
+author: mkpt
 language: en
 timezone: ''
 
@@ -112,3 +112,5 @@ deploy:
   repo: https://github.com/mkpt/mkpt.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
+
+  
