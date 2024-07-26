@@ -1,8 +1,7 @@
 ---
 title: "Slow Living"
 date: "2023-03-03"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

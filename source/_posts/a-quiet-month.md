@@ -1,8 +1,7 @@
 ---
 title: "A Quiet Month"
 date: "2022-12-02"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2022"
 ---

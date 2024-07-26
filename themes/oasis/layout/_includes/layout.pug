@@ -1,8 +1,8 @@
 
 - var pageTitle = page.title || config.subtitle || ''
-- if (is_archive()) pageTitle = 'Archives'
-- if (is_tag()) pageTitle = 'MKPT > ' + page.tag
-- if (is_category()) pageTitle = 'Category: ' + page.category
+- if (is_archive()) pageTitle = 'mkpt archives'
+- if (is_tag()) pageTitle = 'mkpt ' + page.tag
+- if (is_category()) pageTitle = 'category: ' + page.category
 - if (is_month()) pageTitle += ': ' + page.month + '/' + page.year
 - if (is_year()) pageTitle += ': ' + page.year
 - if (pageTitle.length <= 0 && is_home()) pageTitle = config.title

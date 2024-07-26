@@ -1,8 +1,7 @@
 ---
 title: "Blues and Greens"
 date: "2023-10-07"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

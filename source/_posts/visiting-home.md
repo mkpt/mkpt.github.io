@@ -1,8 +1,7 @@
 ---
 title: "Home for the Holidays"
 date: "2023-12-06"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

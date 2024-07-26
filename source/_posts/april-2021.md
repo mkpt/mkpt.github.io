@@ -1,8 +1,7 @@
 ---
 title: "Over Land and Sea"
 date: "2021-05-05"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2021"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "In Bloom"
 date: "2023-04-03"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

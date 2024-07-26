@@ -1,8 +1,7 @@
 ---
 title: "The Luckiest"
 date: "2022-11-05"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2022"
 ---

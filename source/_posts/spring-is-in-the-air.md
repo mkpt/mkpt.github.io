@@ -1,8 +1,7 @@
 ---
 title: "Spring is in the Air"
 date: "2023-05-06"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

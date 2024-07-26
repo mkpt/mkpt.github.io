@@ -1,8 +1,7 @@
 ---
 title: "Reunited"
 date: "2022-05-06"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2022"
 ---

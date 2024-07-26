@@ -1,8 +1,7 @@
 ---
 title: "The Heat is Here"
 date: "2023-08-05"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

@@ -1,17 +1,17 @@
 # html lang
 language: en
 
-title: MKPT
+title: mkpt
 subtitle: 'subtitle goes here'
 
 # main menu navigation
 menu:
-  All: /
-  Blog: /tags/Blog
-  Code: /tags/Code
+  all: /
+  blog: /tags/blog
+  code: /tags/code
   #Friends: /friends
-  About: /about
-  Archives: /archives
+  bio: /about
+  archives: /archives
 
 # stylesheets loaded in the <head>
 stylesheets:

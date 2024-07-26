@@ -1,8 +1,7 @@
 ---
 title: "Rustic Summer"
 date: "2023-09-09"
-tags: 
-  - Blog
+tags: blog
 categories: "2023"
 ---
 

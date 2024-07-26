@@ -1,8 +1,7 @@
 ---
 title: "Til Death Do Us Part"
 date: "2022-03-22"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2022"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Oh, How I Love Christmas"
 date: "2023-01-04"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2023"
 ---

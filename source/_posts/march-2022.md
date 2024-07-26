@@ -1,8 +1,7 @@
 ---
 title: "The Cold, She Lingers"
 date: "2022-04-05"
-tags: 
-  - Blog
+tags: blog
 categories: 
   - "2022"
 ---
